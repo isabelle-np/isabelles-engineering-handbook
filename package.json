@@ -1,0 +1,19 @@
+{
+    "name": "isabelles-engineering-handbook",
+    "version": "1.0.0",
+    "description": "Isabelle's Engineering Handbook",
+    "keywords": [
+        "engineering",
+        "handbook",
+        "guide"
+    ],
+    "author": {
+        "name": "Isabelle Nguyen Phuoc",
+        "url": "https://www.linkedin.com/in/isabellenguyenphuoc/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/isabelle-np/isabelles-engineering-handbook.git"
+    },
+    "homepage": "https://github.com/isabelle-np/isabelles-engineering-handbook#readme"
+}
