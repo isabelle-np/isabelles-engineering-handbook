@@ -15,5 +15,9 @@
         "type": "git",
         "url": "https://github.com/isabelle-np/isabelles-engineering-handbook.git"
     },
-    "homepage": "https://github.com/isabelle-np/isabelles-engineering-handbook#readme"
+    "homepage": "https://github.com/isabelle-np/isabelles-engineering-handbook#readme",
+    "bugs": {
+        "url": "https://github.com/isabelle-np/isabelles-engineering-handbook/issues"
+    },
+    "private": true
 }
