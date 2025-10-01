@@ -17,7 +17,7 @@ This guide will help you set up a basic development environment on Windows.
 2. Run the following command to verify that `nvm` is installed:
 
    ```bash
-   nvm version
+   nvm -v
    ```
 
 If installed correctly, this will display the installed version of `nvm`.
@@ -68,7 +68,7 @@ To ensure that `nvm` and `Node.js` work correctly, you may need to update your s
 1. Open a new Command Prompt or PowerShell window.
 2. Run the following commands to ensure `nvm` and `Node.js` are accessible:
    ```bash
-   nvm version
+   nvm -v
    node -v
    npm -v
    ```
