@@ -13,9 +13,6 @@ A/B Testing is a method of comparing two versions of a feature or design to dete
 Smoke Testing is a preliminary test to check the basic functionality of an application. It ensures that the critical features are working before further testing.
 
 ### Metrics and Coverage
-#### Test Coverage
-Test Coverage measures the percentage of code that is executed during testing. It helps identify untested parts of a codebase.
-
 #### Code Coverage
 Code Coverage is a metric that measures the percentage of code executed during testing. It helps identify untested parts of a codebase.
 

@@ -95,6 +95,3 @@ Chromatic is a visual testing tool for Storybook. It automates UI testing and he
 
 #### Storybook
 Storybook is a tool for developing and testing UI components in isolation. It provides a sandbox environment for building and documenting components.
-
-## To Be Defined
-### Higher-Order Components
