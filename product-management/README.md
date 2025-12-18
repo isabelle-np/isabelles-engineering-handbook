@@ -9,7 +9,8 @@ This directory demonstrates my product management skills through practical, real
 3. [Risk Assessment and Mitigation](risk-mitigation.md)  
 4. [RACI Matrix](raci-matrix.md)  
 5. [Competitive Analysis of Dog Breeds](competitive-analysis.md)
-6. [Roadmap](roadmap.md)  
+6. [Roadmap](roadmap.md)
+7. [Hypothesis Validation and Experimentation](hypothesis-validation.md)
 
 ## Scenario Planning Example
 
