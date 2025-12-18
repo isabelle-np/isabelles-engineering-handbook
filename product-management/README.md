@@ -11,6 +11,7 @@ This directory demonstrates my product management skills through practical, real
 5. [Competitive Analysis of Dog Breeds](competitive-analysis.md)
 6. [Roadmap](roadmap.md)
 7. [Hypothesis Validation and Experimentation](hypothesis-validation.md)
+8. [Persona](persona.md)
 
 ## Scenario Planning Example
 
