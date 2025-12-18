@@ -1,10 +1,10 @@
 # Isabelle's Handbook
 
-This repository serves as my personal runbook, a living document showcasing my systems thinking approach to discovering, identifying, validating, and solving complex problems. It combines my diverse skill set across product management, UX/UI design, software engineering, and systems engineering into a structured framework for learning, experimentation, and decision-making.
+This repository serves as my personal wiki, a living document showcasing my systems thinking approach to discovering, identifying, validating, and solving complex problems. It highlights my leadership style based on my diverse skill set and experiences across software engineeering, systems engineering, product management, and UX/UI design and how I value continuious learning, strategic experimentation, and data-driven yet holistic decision-making.
 
 ## Purpose
 
-The runbook captures my approach to tackling problems holistically, ensuring solutions are:
+This handbook captures my approach to tackling problems holistically, ensuring solutions are:
 
 - **User-first:** Prioritizing real user needs and experiences  
 - **Data-driven:** Validating hypotheses with observation, measurement, and iteration  
