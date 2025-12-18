@@ -1,4 +1,4 @@
-# One-Page Strategic Roadmap: My Dog’s Well-Being
+# Strategic Roadmap: My Dog’s Well-Being
 
 This roadmap outlines initiatives, timelines, and metrics to ensure my dog is happy, healthy, and engaged.
 
