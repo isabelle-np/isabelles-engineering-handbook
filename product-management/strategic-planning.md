@@ -1,4 +1,4 @@
-# Strategic Planning Example — Enhancing My Dog’s Well-Being
+# Strategic Planning Example: Enhancing My Dog’s Well-Being
 
 This example demonstrates how I apply strategic planning and product management skills to improving my dog's well-being.
 
