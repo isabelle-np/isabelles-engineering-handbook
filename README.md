@@ -28,6 +28,7 @@ The runbook captures my approach to tackling problems holistically, ensuring sol
     - [Roadmap](/product-management/roadmap.md)
     - [RACI Matrix](/product-management/raci-matrix.md)
     - [Persona](/product-management/persona.md)
+    - [Backlog](https://github.com/users/isabelle-np/projects/1)
 
 
 ## My Core Principles
