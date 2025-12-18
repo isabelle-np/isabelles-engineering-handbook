@@ -1,4 +1,4 @@
-# Engineering Excellence Charter
+# Isabelle's Excellence Charter
 ## Purpose
 My mission is to build high-quality software that solves real problems for real users. I pursue engineering excellence through thoughtful design, disciplined execution, and continuous collaboration—balancing speed, scalability, and long-term maintainability.
 

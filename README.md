@@ -1,4 +1,4 @@
-# Isabelle's Engineering Handbook
+# Isabelle's Handbook
 
 ## About this Project
 
