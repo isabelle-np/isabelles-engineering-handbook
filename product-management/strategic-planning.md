@@ -72,3 +72,11 @@ Independence
 - Weekly review: Track engagement, behavior, and happiness indicators  
 - Monthly review: Assess progress toward strategic goals  
 - Quarterly review: Adjust initiatives based on results, season, or lifestyle changes
+
+## Why This Shows Product Management Skills
+
+- Vision Setting: I define a long-term goal for a “product” (my dog’s well-being)  
+- Goal Alignment: Each initiative maps to strategic goals  
+- Prioritization: I balance impact vs. effort, like a PM prioritizing roadmap items  
+- Measurement: Metrics track progress toward objectives  
+- Iterative Planning: I review, adjust, and optimize strategies regularly
