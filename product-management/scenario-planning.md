@@ -104,3 +104,11 @@ My response
 - Tools: puzzle toys, automated feeders, dog cameras  
 - Services: dog walker, doggy daycare, neighbor visits  
 - Schedule: testing and iterating on different combinations
+
+## Why This Shows Product Management Skills
+
+- Problem framing: I defined the problem and constraints clearly  
+- Hypothesis-driven thinking: Each scenario has signals, interventions, and expected outcomes  
+- Decision framework: I have pre-planned responses based on observed signals  
+- Iterative experimentation: Scenarios allow me to learn and adjust without guessing  
+- Resource prioritization: I evaluate interventions based on impact versus effort
