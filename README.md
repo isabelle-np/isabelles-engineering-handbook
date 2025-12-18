@@ -1,25 +1,48 @@
 # Isabelle's Handbook
 
-## About this Project
+This repository serves as my personal runbook, a living document showcasing my systems thinking approach to discovering, identifying, validating, and solving complex problems. It combines my diverse skill set across product management, UX/UI design, software engineering, and systems engineering into a structured framework for learning, experimentation, and decision-making.
 
-This idea came about as I decided to revive my 13-inch 2015 MacBook Pro from the depths of my closet. I started my M.S. in Systems Engineering program at Johns Hopkins University, and I wanted a portable workspace for coding, creating models for MBSE, homework, and studying. Even after 10 years, a fresh factory reset was all we needed to hit the ground running together.
+## Purpose
 
-As a software engineer, and especially in the age of AI-enablement, documentation is absolutely essential, even for a team of one. I actually learned this from my dad when I transitioned into software engineering from UX/UI design. As a former IT professional, his advice to me was: nobody likes writing documentation, so make sure you're the one doing it. Dad, you were right. 
+The runbook captures my approach to tackling problems holistically, ensuring solutions are:
 
-Writing documentation is cumbersome. You have to write it, edit it, share it, maintain it, explain it, update it... you're never truly "done" with writing docs. Even with tools like GitHub CoPilot, Cursor, ChatGPT, etc., documentation requires effort (especially **really** good docs). With a strategy and some TLC, docs can be the easiest medium for scaling knowledge transfer, quality assurance, and collaboration with other people and tools.
+- **User-first:** Prioritizing real user needs and experiences  
+- **Data-driven:** Validating hypotheses with observation, measurement, and iteration  
+- **Architecturally sound:** Building systems that are maintainable, scalable, and resilient  
+- **Strategically aligned:** Solving the right problems in the right order  
+- **Collaborative:** Leveraging feedback, diverse perspectives, and team expertise
 
-Sure, you could just read code and figure out what it does, or even ask an AI agent to explain it! But there's quite a bit of context that isn't always evident:
+## My Core Principles
 
-- Why are things architected in the way that they are?
-- What considerations and constraints informed the current architecture?
-- What requirements led to this specific implementation?
-- How tightly or loosely is this code coupled to the overall system?
-- How mature is the system and how mature are each of the individual parts?
-- What trade-offs were made?
+1. **Ask Why Multiple Times:** Solve root problems rather than symptoms.  
+2. **Leave Things Better Than Found:** Constantly improve systems, code, and processes.  
+3. **Balance Speed & Scalability:** Optimize for immediate outcomes without compromising future growth.  
+4. **Lead with Empathy & Vision:** Enable others, set clear expectations, and give space to innovate.  
+5. **Be Data-Driven & User-First:** Validate assumptions with evidence and focus on real user needs.  
+6. **Think Holistically:** Consider people, processes, tools, and systems as interconnected.  
 
-As an engineering systems architect, all of this context is crucial to ensure that I'm building, maintaining, scaling, and even retiring robust, complex, and agile software systems. This context helps me build in the current reality: what can I actually do that will deliver the biggest impact to my users and stakeholders? 
+## My Approach
 
-I hope this project gives you insight into how I approach systems, documentation, and how I lead my engineers. I'm always learning, so I'll continue to iterate in this space with successes, lessons learned, and tips and tricks (and put to test some documentation self-governance!)
+### 1. Systems Thinking
+- Leveraging my formal education in systems engineering (Masters at Johns Hopkins University, Whiting School of Engineering) to understand interdependencies and optimize for the whole system, not just isolated components.  
+- Mapping processes, workflows, and interactions to identify bottlenecks, risks, and leverage points.
+
+### 2. Product & Strategic Management
+- Applying product management principles to define goals, prioritize features, and measure outcomes.  
+- Emphasizing hypothesis-driven experimentation and strategic planning.  
+- Balancing long-term vision with short-term execution.
+
+### 3. User-First Design
+- Drawing on experience as a UX/UI designer to maintain a user-centered mindset.  
+- Identifying pain points, understanding behaviors, and designing intuitive solutions.  
+- Incorporating qualitative and quantitative feedback to iterate effectively.
+
+### 4. Engineering & Architectural Thinking
+- Using experience as a software engineer to design solutions that are modular, maintainable, and scalable.  
+- Iteratively building, testing, and refining based on data and system feedback.  
+- Emphasizing code quality, collaboration, and leaving systems better than I found them.
+
+This repository reflects my philosophy: **solving the right problems for the right people, with elegant systems, thoughtful design, and disciplined execution.**
 
 👩🏻‍💻
 
