@@ -1,5 +1,7 @@
 # Product Management Portfolio: Dog Lifestyle Case Studies
 
+In my current role as an Engineering Manager, I also fulfill the responsibilities of a Product Manager due to the absence of a dedicated PM on my team. I own the team roadmap (tracked in ProductPlan), define and track KPIs, and identify high-impact initiatives that align with business and customer goals. I partner closely with stakeholders across engineering, product, UX, and marketing/sales to ensure alignment and clarity, and I manage cross-functional initiatives through successful, on-time delivery. In parallel, I build and maintain strong relationships across the organization to enable effective collaboration and empower product teams to execute at a high level.
+
 This directory demonstrates my product management skills through practical, real-world examples using the context of my dog, Orzo. Each example showcases core PM skills including problem framing, criteria definition, competitive analysis, tradeoff assessment, scenario planning, risk management, and data-driven decision-making.
 
 ## Table of Contents
