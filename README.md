@@ -12,6 +12,24 @@ The runbook captures my approach to tackling problems holistically, ensuring sol
 - **Strategically aligned:** Solving the right problems in the right order  
 - **Collaborative:** Leveraging feedback, diverse perspectives, and team expertise
 
+## Contents
+1. [My excellence charter](excellence-charter.md): my approach to product strategy, design and architecture, and engineering.
+2. [My success metrics](success-metrics.md): how excellence is measured.
+3. Example: Figma MCP Cross-Functional Adoption
+    - [Analysis](/engineering/figma-mcp-analysis.md)
+    - [Engineering Risk Assessment](/engineering/figma-mcp-eng-risks.md)
+    - [Phased Adoption Plan for an organization](/engineering/figma-mcp-adoption-plan.md)
+4. Product Management Artifacts
+    - [Strategic Planning](/product-management/strategic-planning.md)
+    - [Scenario Planning](/product-management/scenario-planning.md)
+    - [Competitive Analysis](/product-management/competitive-analysis.md)
+    - [Hypothesis Validation](/product-management/hypothesis-validation.md)
+    - [Risk Mitigation Analysis](/product-management/risk-mitigation.md)
+    - [Roadmap](/product-management/roadmap.md)
+    - [RACI Matrix](/product-management/raci-matrix.md)
+    - [Persona](/product-management/persona.md)
+
+
 ## My Core Principles
 
 1. **Ask Why Multiple Times:** Solve root problems rather than symptoms.  
