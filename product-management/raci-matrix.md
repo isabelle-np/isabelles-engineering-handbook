@@ -1,4 +1,4 @@
-# RACI Matrix — My Dog’s Well-Being
+# RACI Matrix: My Dog’s Well-Being
 
 | Activity | Responsible (R) | Accountable (A) | Consulted (C) | Informed (I) |
 |----------|----------------|----------------|---------------|--------------|
