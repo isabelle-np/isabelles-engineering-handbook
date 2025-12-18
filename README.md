@@ -19,6 +19,7 @@ The runbook captures my approach to tackling problems holistically, ensuring sol
     - [Analysis](/engineering/figma-mcp-analysis.md)
     - [Engineering Risk Assessment](/engineering/figma-mcp-eng-risks.md)
     - [Phased Adoption Plan for an organization](/engineering/figma-mcp-adoption-plan.md)
+    - [Architecture and Guardrails](/engineering/figma-mcp-architecture-guardrails.md)
 4. Product Management Artifacts
     - [Strategic Planning](/product-management/strategic-planning.md)
     - [Scenario Planning](/product-management/scenario-planning.md)
