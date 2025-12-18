@@ -1,11 +1,11 @@
 # User Persona: Orzo
 
-**Name:** Orzo
-**Age:** 3 years  
-**Breed:** Pembroke Welsh Corgi  
-**Size:** Medium 
-**Location:** Urban Mid-Atlantic city with access to green spaces  
-**Occupation:** Full-time companion, adventure partner, and energy distributor  
+- Name: Orzo NP
+- Age: 3 years
+- Breed: Pembroke Welsh Corgi
+- Size: Medium
+- Location: Urban Mid-Atlantic city with access to green spaces
+-  Occupation: Full-time companion, boss of the house
 
 ## Demographics & Background
 
