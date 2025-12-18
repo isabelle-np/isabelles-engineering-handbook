@@ -1,4 +1,4 @@
-# Risk Assessment — My Dog’s Well-Being
+# Risk Assessment: My Dog’s Well-Being
 
 This risk assessment identifies potential risks to my dog’s happiness, health, and engagement while I am at work. Each risk is evaluated for likelihood and consequence severity, with mitigation strategies for both.
 
