@@ -1,4 +1,4 @@
-# Scenario Planning Example — “Improving My Dog’s Experience While I’m at Work”
+# Scenario Planning Example: “Improving My Dog’s Experience While I’m at Work”
 
 This example demonstrates how I apply product management skills to improving my dog's experience while I am away at the office.
 
