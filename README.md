@@ -13,15 +13,16 @@ This handbook captures my approach to tackling problems holistically, ensuring s
 - **Collaborative:** Leveraging feedback, diverse perspectives, and team expertise
 
 ## Contents
-1. [My excellence charter](excellence-charter.md): my approach to product strategy, design and architecture, and engineering.
-2. [My success metrics](success-metrics.md): how excellence is measured.
-3. Example ADR: [Typscript vs Python for MCP Servers](/engineering/adr-typescript-vs-python-mcp.md)
-4. Example: Figma MCP Cross-Functional Adoption
+1. [About me](about-me.md)
+2. [My excellence charter](excellence-charter.md): my approach to product strategy, design and architecture, and engineering.
+3. [My success metrics](success-metrics.md): how excellence is measured.
+4. Example ADR: [Typscript vs Python for MCP Servers](/engineering/adr-typescript-vs-python-mcp.md)
+5. Example: Figma MCP Cross-Functional Adoption
     - [Analysis](/engineering/figma-mcp-analysis.md)
     - [Engineering Risk Assessment](/engineering/figma-mcp-eng-risks.md)
     - [Phased Adoption Plan for an organization](/engineering/figma-mcp-adoption-plan.md)
     - [Architecture and Guardrails](/engineering/figma-mcp-architecture-guardrails.md)
-5. Product Management Artifacts
+6. Product Management Artifacts
     - [Strategic Planning](/product-management/strategic-planning.md)
     - [Scenario Planning](/product-management/scenario-planning.md)
     - [Competitive Analysis](/product-management/competitive-analysis.md)
