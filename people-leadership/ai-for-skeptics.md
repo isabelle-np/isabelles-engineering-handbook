@@ -1,11 +1,13 @@
 # AI Adoption Process for Skeptical Engineers
 From my experience, senior-leaning engineers tend to be more skeptical of the outputs of AI tooling, particularly if they only assessed early models and tools before writting them off entirely. For good reason too; [it can be faster to rely on individual experience](https://arxiv.org/abs/2507.09089) to get things done. 
 
-**Old Hypothesis**: If we assume distrust in the quality of output as the blocker for developer adoption, then wouldn't the problem solve itself once the tools become better? 
+**Old Hypothesis**: If we assume distrust in the quality of output as the blocker for developer adoption, then the problem solves itself once the tools become better.
 
 The outputs have improved since mainstream experimentation in the world of enterprise engineering, but there's still a significant amount of resistance to adopting AI enabled workflows. 
 
-**My Hypothesis**: While AI dev tools are easy to onboard and set up, adoption is difficult because the skills and capabilities of AI can be misunderstood as a loss of control, craft, and discretion for individual engineers. For a senior engineer, the feeling of lost autonomy, the association with poor output quality and the pressure to adopt tools that they don't believe adds value, is incongruous with their professional (and maybe even personal) identities as a software engineer: a knowledgeable problem solver who builds great products.
+**My Assumption**: While AI dev tools are easy to onboard and set up, adoption is difficult because the skills and capabilities of AI can be misunderstood as a loss of control, craft, and discretion for individual engineers. For a senior engineer, the feeling of lost autonomy, the association with poor output quality and the pressure to adopt tools that they don't believe adds value, is incongruous with their professional (and maybe even personal) identities as a software engineer: a knowledgeable problem solver who builds great products.
+
+**My Hypothesis**: Engineering managers can systematically turn skeptics into champions by staying user-first (understanding their actual workflows and pain points), addressing real friction in the SDLC (not just adding tools), and establishing a team culture where continuous improvement through tools and processes is the expectation, not the exception.
 
 To facilitate the adoption of AI developer workflows with skeptics is to build geniune adoption through respecting engineering judgement, demonstration, experimentation, and supporting engineers as they navigate the biggest industry shift in recent history. To mitigate fear and apprehension, a user-first approach must be taken to address objective and subjective concerns.
 
